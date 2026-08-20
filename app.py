@@ -26,7 +26,7 @@ ANASAYFA_HTML = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarihi Şahsiyetler Platformu</title>
+    <title>Hanımlarla Sohbet Platformu</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background-color: #121212; margin: 0; padding: 50px 20px; text-align: center; }
         h1 { color: #ffffff; margin-bottom: 50px; font-weight: 300; font-size: 2.5rem; letter-spacing: 1px; }
