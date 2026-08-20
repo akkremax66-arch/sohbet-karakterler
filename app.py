@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # x.ai (Grok) API bağlantı ayarları
 client = OpenAI(
-    api_key="xai-YhNBb5l7iN39rl2tj0dbskzTBBaBqAdArxn9QqAAqVkivK9mcWRZmW5vf4gzzrHD401a5xrgMom0d14O", # BURAYI KENDİ ŞİFRENLE DEĞİŞTİR
+    api_key="**********", # BURAYI KENDİ ŞİFRENLE DEĞİŞTİR
     base_url="https://api.x.ai/v1"
 )
 
